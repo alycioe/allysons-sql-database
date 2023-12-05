@@ -1,19 +1,17 @@
-# Allysons-SQL-Database
-
+# Employee Tracker Database
+  
 ## Description
-This application is made to be an employee tracker, meaning it has a database with tables referring to departments, job roles, and employees. These categories should be able to be viewed, added to, or changed.
-
+This database is used to track departments, roles, and employees, as well as has the functionality to add new departments, roles, or employees.
+  
 ## Installation Instructions
-Several files are required for this to function, such as NodeJS, VS Code, inquirer NPM, mySQL NPM, and express NPM. dotenv is optional to keep passwords safe.
-
+By installing express, inquirer, mysql2, and sequelize, this application can be installed and used within the command lines. It can be called using node server
+  
 ## Usage
-This application can be used to keep track of employees, their roles within the company, and departments. New employees, roles, and departments can be added at any time.
-
+When this application is called using "node server" in the command line, a list of prompts will appear. Click on the prompt that requires being viewed or edited, and answer the questions that follow!
+  
 ## Licenses
 MIT
-
-## Contributors
-N/A
-
+![Github license](https://img.shields.io/badge/license--blue.svg)
+      
 ## Contact
 github.com/alycioe
